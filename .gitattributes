@@ -3,6 +3,5 @@
 *.js linguist-detectable=false  
 *.html linguist-detectable=false  
 *.xml linguist-detectable=false    
-*.assembly linguist-detectable=false    
-
-*.assembly linguist-detectable=false    
+*.assembly linguist-detectable=false
+*.Net linguist-detectable=true  
