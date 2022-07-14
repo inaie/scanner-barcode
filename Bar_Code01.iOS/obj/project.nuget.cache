@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "V1BItf/zKCgaMYHETLLuTZYCKq1qei8Fgv7SPv7Xrbp3pe4oOWkfd8a61eZYR694Wpa9iDYjZLft+mrCOYvYbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\franc\\OneDrive\\Documentos\\Personal_Code\\Bar_Code01\\Bar_Code01.iOS\\Bar_Code01.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\franc\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\franc\\.nuget\\packages\\xamarin.essentials\\1.7.3\\xamarin.essentials.1.7.3.nupkg.sha512",
+    "C:\\Users\\franc\\.nuget\\packages\\xamarin.forms\\5.0.0.2478\\xamarin.forms.5.0.0.2478.nupkg.sha512",
+    "C:\\Users\\franc\\.nuget\\packages\\zxing.net.mobile\\2.4.1\\zxing.net.mobile.2.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

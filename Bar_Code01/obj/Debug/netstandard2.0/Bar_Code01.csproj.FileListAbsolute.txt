@@ -1,0 +1,15 @@
+C:\Users\franc\OneDrive\Documentos\Personal_Code\Bar_Code01\Bar_Code01\bin\Debug\netstandard2.0\Bar_Code01.deps.json
+C:\Users\franc\OneDrive\Documentos\Personal_Code\Bar_Code01\Bar_Code01\bin\Debug\netstandard2.0\Bar_Code01.dll
+C:\Users\franc\OneDrive\Documentos\Personal_Code\Bar_Code01\Bar_Code01\bin\Debug\netstandard2.0\ref\Bar_Code01.dll
+C:\Users\franc\OneDrive\Documentos\Personal_Code\Bar_Code01\Bar_Code01\bin\Debug\netstandard2.0\Bar_Code01.pdb
+C:\Users\franc\OneDrive\Documentos\Personal_Code\Bar_Code01\Bar_Code01\obj\Debug\netstandard2.0\Bar_Code01.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Documentos\Personal_Code\Bar_Code01\Bar_Code01\obj\Debug\netstandard2.0\Bar_Code01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Documentos\Personal_Code\Bar_Code01\Bar_Code01\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\franc\OneDrive\Documentos\Personal_Code\Bar_Code01\Bar_Code01\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\franc\OneDrive\Documentos\Personal_Code\Bar_Code01\Bar_Code01\obj\Debug\netstandard2.0\Bar_Code01.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Documentos\Personal_Code\Bar_Code01\Bar_Code01\obj\Debug\netstandard2.0\Bar_Code01.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Documentos\Personal_Code\Bar_Code01\Bar_Code01\obj\Debug\netstandard2.0\Bar_Code01.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Documentos\Personal_Code\Bar_Code01\Bar_Code01\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\franc\OneDrive\Documentos\Personal_Code\Bar_Code01\Bar_Code01\obj\Debug\netstandard2.0\Bar_Code01.dll
+C:\Users\franc\OneDrive\Documentos\Personal_Code\Bar_Code01\Bar_Code01\obj\Debug\netstandard2.0\ref\Bar_Code01.dll
+C:\Users\franc\OneDrive\Documentos\Personal_Code\Bar_Code01\Bar_Code01\obj\Debug\netstandard2.0\Bar_Code01.pdb
