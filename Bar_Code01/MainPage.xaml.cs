@@ -1,11 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
-using Bar_Code01.Services;
 
 namespace Bar_Code01
 {
@@ -15,22 +10,24 @@ namespace Bar_Code01
         {
             InitializeComponent();
         }
-        private async void Button_OnClicked(object sender, EventArgs e) => await OpenScan();
+        private async void buttonScan_Clicked(object sender, EventArgs e) => await OpenScan();
+        //iniciando scanner ao clicar 
         private async Task OpenScan()
         {
+            //criando variavel para scanner e result
             var scanner = DependencyService.Get<IQrCodeScanningService>();
             var result = await scanner.ScanAsync();
 
             if (!string.IsNullOrEmpty(result))
             {
-              // a logica da coisa
-                var qCode = result;
+                // toda a lógica do scanner ao ler e capturar o código de barras ou código qr
+                //Qrcode captura o result e passa para o ean.Text mostrando
+                ////o Ean capturado na tela como forma de texto inalterável em um botão
+                var Code = result;
+                scan.Text = "Ean:" + Code;
+                //retirando a barra azul do xamarin
+                NavigationPage.SetHasNavigationBar(this, false);
             }
-        }
-
-        private void buttonScan_Clicked(object sender, EventArgs e)
-        {
-
         }
     }
 }

@@ -2,16 +2,50 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
                xmlns:local="clr-namespace:Bar_Code01"
-             x:Class="Bar_Code01.MainPage">
-    
+               x:Class="Bar_Code01.MainPage"
+              NavigationPage.HasNavigationBar="False">
     
     <StackLayout>
-        <Frame BackgroundColor="Red" Padding="20" CornerRadius="13">
 
-            <Button Text="Scanner" BackgroundColor="Snow" 
-                    TextColor="Red" 
-                    x:Name="buttonScan" 
-                    Clicked="Button_OnClicked"></Button>
-        </Frame>
+       
+        <Button 
+               Text="Scanner" BackgroundColor="white" 
+               TextColor="Blue" 
+               x:Name="buttonScan" 
+               Clicked="buttonScan_Clicked"
+               BorderWidth="2"
+               BorderColor="Red"
+               Margin="60,20,60,0"
+               WidthRequest="60"
+               CornerRadius="99">
+        </Button>
+            <Grid>
+            <Image 
+                   Source = "imagem_AjustaEstoque.png"
+                   HeightRequest="50"
+                   TranslationX="60"
+                   TranslationY="-59"
+                   WidthRequest="99">
+            </Image>
+        </Grid>
+        <Grid>
+            <Button
+            x:Name="scan"
+            IsEnabled="True"
+            HorizontalOptions="CenterAndExpand"
+            Text="Ean"
+            TextTransform="Uppercase"
+            Font="20"
+            FontAttributes="Bold"
+            TextColor="Black"
+            BackgroundColor="White"
+            BorderWidth="2"
+            BorderColor="Red"
+            CornerRadius="99"
+            Margin="0,20,0,0"
+            WidthRequest="380">
+            
+        </Button>
+        </Grid>
     </StackLayout>
 </ContentPage>
